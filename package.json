@@ -1,0 +1,31 @@
+{
+  "name": "blinkie",
+  "version": "1.0.0",
+  "description": "yes",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ItsLilCattos/Blinkie.git"
+  },
+  "keywords": [],
+  "author": "angie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ItsLilCattos/Blinkie/issues"
+  },
+  "homepage": "https://github.com/ItsLilCattos/Blinkie#readme",
+  "dependencies": {
+    "@discordjs/builders": "^0.11.0",
+    "@discordjs/rest": "^0.3.0",
+    "discord-api-types": "^0.26.1",
+    "discord-bot-client": "^0.0.2",
+    "discord.js": "^13.6.0",
+    "node-fetch": "^2.6.7"
+  },
+  "devDependencies": {
+    "eslint": "^8.9.0"
+  }
+}

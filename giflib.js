@@ -1,0 +1,1 @@
+let gifs = ["https://tenor.com/view/sticker-hug-couple-love-hug-love-couple-gif-22965993", "https://tenor.com/search/hug-gifs", "https://tenor.com/view/virtual-hug-penguin-love-heart-gif-14712845"]
